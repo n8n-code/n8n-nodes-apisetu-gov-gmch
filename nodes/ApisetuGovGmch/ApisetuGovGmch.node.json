@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevApisetuGovGmch",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-apisetu-gov-gmch"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-apisetu-gov-gmch?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
